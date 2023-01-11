@@ -1,0 +1,4 @@
+﻿  Huffman.cpp
+D:\My docs\Задания\Huffman\Huffman\Huffman.cpp(64,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\My docs\Задания\Huffman\Huffman\Huffman.cpp(257,15): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  Huffman.vcxproj -> D:\My docs\Задания\Huffman\Debug\Huffman.exe
